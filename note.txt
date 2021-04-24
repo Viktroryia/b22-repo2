@@ -1,0 +1,5 @@
+We just published our local git repo to remote GitHub.com repository
+Few things happened:
+1. It automatically created new remote repo u bder your GitHub.com
+2. Made the connection with your local git repi
+3. Added all your commits to remote repo
