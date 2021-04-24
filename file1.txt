@@ -1,3 +1,0 @@
-B22 adding second repo
-
-This is the work for Test case 1 in file 1
