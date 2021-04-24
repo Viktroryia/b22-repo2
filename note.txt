@@ -3,3 +3,13 @@ Few things happened:
 1. It automatically created new remote repo u bder your GitHub.com
 2. Made the connection with your local git repi
 3. Added all your commits to remote repo
+
+
+
+
+Now our work will continue locally
+
+1. add a new file called note.txt
+2.commited the changes to local repo
+3. we want thids change to be reflective in remote repo so we push local commit to local repo using oush origin button
+4.Observe it has been added in your repsitory under GutHub.com
